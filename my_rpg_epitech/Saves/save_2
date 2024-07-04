@@ -1,0 +1,8 @@
+#stats
+hp=100
+speed=0.25
+defence=0.50
+player damage=0.50
+#hotbar
+weapon_1=M4A1
+weapon_2=Glock 17

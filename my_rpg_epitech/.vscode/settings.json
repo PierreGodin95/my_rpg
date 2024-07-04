@@ -1,0 +1,10 @@
+{
+    "cod-fish.binaryPath": "/home/polcanals/Desktop/Projects/Mein_kampf/",
+    "files.associations": {
+        "typeinfo": "c",
+        "main.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
